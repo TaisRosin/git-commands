@@ -1,4 +1,5 @@
-Comandos git essenciais
+# Comandos git essenciais
+
 | Comando                     | Descrição                                    |
    | --------------------------- | -----------------------------------           |
    | `git init`                  | Inicializa um repositório vazio               |
@@ -11,3 +12,4 @@ Comandos git essenciais
    | `git branch`                | Lista ou cria branches                        |
    | `git merge`                 | Mescla branches                               |
    | `git log --oneline --graph` | Histórico compacto                            |
+   | `git remote`                | Lista a url do servidor onde o projeto está salvo |
